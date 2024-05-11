@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  centralized_task_management: false
+  monitoring_activity: false
+  generating_reports: false
+  data_storage: false
+  keeping_records: false
+  other: MyString
+  company: MyString
+  name: MyString
+  email: MyString
+  phone: MyString
+
+two:
+  centralized_task_management: false
+  monitoring_activity: false
+  generating_reports: false
+  data_storage: false
+  keeping_records: false
+  other: MyString
+  company: MyString
+  name: MyString
+  email: MyString
+  phone: MyString
