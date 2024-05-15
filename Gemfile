@@ -73,3 +73,4 @@ gem "devise", "~> 4.9"
 gem "pundit", "~> 2.3"
 
 gem "tailwindcss-rails", "~> 2.6"
+gem 'friendly_id', '~> 5.5.0'
