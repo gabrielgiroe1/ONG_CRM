@@ -29,7 +29,7 @@ class User < ApplicationRecord
     URI::HTTPS.build(host: "www.gravatar.com", path: "/avatar/#{md5}", query: query).to_s
   end
 
-  def full_name
+  def name
     "#{first_name} #{last_name}"
   end
 end
